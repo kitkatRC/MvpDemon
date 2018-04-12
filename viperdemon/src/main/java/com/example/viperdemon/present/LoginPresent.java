@@ -41,8 +41,7 @@ public class LoginPresent implements BaseContacts.present, interactorCallback<Lo
     @Override
     public void onLoginCallback(LoginResponse respponse) {
         LoginResponse loginResponse = new LoginResponse();
-        loginResponse.psw="10000";
-        //测试数据333333333333333333333333333333333333
+        loginResponse.psw="999";
         //callback data
         mView.hideProgerssDiaolog();
         //回调数据
