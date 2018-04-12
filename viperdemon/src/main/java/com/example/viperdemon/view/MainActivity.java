@@ -69,4 +69,6 @@ public class MainActivity extends AppCompatActivity implements BaseContacts.view
         mPresent.onDestory();
     }
 
+    //来一句locakl_test测试注释-------------------------------------------------------------
+
 }
