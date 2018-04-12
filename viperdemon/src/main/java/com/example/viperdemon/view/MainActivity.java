@@ -68,5 +68,6 @@ public class MainActivity extends AppCompatActivity implements BaseContacts.view
         super.onDestroy();
         mPresent.onDestory();
     }
+    //////////////继续测试
 
 }
