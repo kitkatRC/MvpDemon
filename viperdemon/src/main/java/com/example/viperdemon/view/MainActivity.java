@@ -70,4 +70,5 @@ public class MainActivity extends AppCompatActivity implements BaseContacts.view
     }
     //////////////继续测试
     //test------------------------------------------123
+    //text--------------------
 }
