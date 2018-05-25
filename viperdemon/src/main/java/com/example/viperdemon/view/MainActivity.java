@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity implements BaseContacts.view
     }
 
     //按钮----------------------
+    //测试注释----------------------------
     public void login(View view) {
         //传递数据进行请求逻辑
         String userName = mEtUserName.getText().toString().trim();
@@ -67,5 +68,14 @@ public class MainActivity extends AppCompatActivity implements BaseContacts.view
         super.onDestroy();
         mPresent.onDestory();
     }
+    //////////////继续测试
+    //test------------------------------------------123
+    //test----ce111
+    //test----------ce222222222222
 
+
+    //test4----------------------111111
+    //test6666666
+//    test666662222
+    //test 66666333
 }
